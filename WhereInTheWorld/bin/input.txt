@@ -1,0 +1,42 @@
+
+-- Standard Form --
+
+45.9 S, 170.5 E Dunedin
+45.9 W, 170.5 N Dunedin
+23.6 W, -50.00
+0, 0 Center
+-45.8655, 170.515 Dunedin
+0, 180
+180, 0
+41.9 N, 12.5 E Rome
+37.8 N, 112.6 W Salt Lake City
+48.9 N, 16.4 E Vienna
+25.0 N, 77.2 E New Delhi
+-23.5505, -46.6333 São Paulo, Brazil
+40.4168, -3.7038 Madrid, Spain
+30.0444, 31.2357 Cairo, Egypt
+-33.9249, 18.4241 Cape Town, South Africa
+
+-- DMS Format --
+
+51° 30' 12.5" N, 0° 7' 39.1" W (London, UK)
+40° 45' 28.56" N, 73° 58' 55.68" W (New York City, USA)
+35° 41' 22.6" N, 139° 41' 30.9" E (Tokyo, Japan)
+33° 51' 13.3" S, 151° 12' 40.1" E (Sydney, Australia)
+48° 51' 30.5" N, 2° 17' 40.9" E (Paris, France)
+37° 48' 5.7" N, 122° 25' 9.3" W (San Francisco, USA)
+55° 45' 7.7" N, 37° 37' 35.1" E (Moscow, Russia)
+19° 25' 0.0" N, 99° 7' 0.0" W (Mexico City, Mexico)
+33° 51' 21.6" N, 35° 30' 28.5" E (Beirut, Lebanon)
+35° 40' 49.5" S, 174° 44' 48.1" E (Auckland, New Zealand)
+
+-- DM Format --
+
+38° 53.056' N 77° 02.383' W (Washington D.C., USA)
+51° 30.155' N 0° 07.652' W (London, UK)
+35° 41.377' N 139° 41.515' E (Tokyo, Japan)
+33° 51.219' S 151° 12.668' E (Sydney, Australia)
+48° 51.508' N 2° 17.682' E (Paris, France)
+37° 48.095' N 122° 25.155' W (San Francisco, USA)
+55° 45.129' N 37° 37.585' E (Moscow, Russia)
+19° 25.000' N 99° 07.000' W (Mexico City, Mexico)
